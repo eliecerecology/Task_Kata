@@ -23,6 +23,6 @@ The solution comprise the following steps:
 in the kata includind CDBA requested
 - test.py = the file to run the codes
 
-I hope know is ok
+I hope now is ok!
 
-Eliecerecology
+Eliecer
